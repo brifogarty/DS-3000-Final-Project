@@ -1,0 +1,6 @@
+,Atmpt_Date,Atmpt_datetime,Atmpt_URL,Exception
+0,2017-02-23,2017-02-23,https://spotifycharts.com/regional/global/daily/2017-02-23,HTTP Error 404: Not Found
+1,2017-05-30,2017-05-30,https://spotifycharts.com/regional/global/daily/2017-05-30,HTTP Error 404: Not Found
+2,2017-05-31,2017-05-31,https://spotifycharts.com/regional/global/daily/2017-05-31,HTTP Error 404: Not Found
+3,2017-06-02,2017-06-02,https://spotifycharts.com/regional/global/daily/2017-06-02,HTTP Error 404: Not Found
+4,2018-01-20,2018-01-20,https://spotifycharts.com/regional/global/daily/2018-01-20,HTTP Error 500: Internal Server Error
