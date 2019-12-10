@@ -1,0 +1,43 @@
+,Chart,Region,Date,Chart URL,Attempt,Error
+0,Top200,us,2017-05-30,https://spotifycharts.com/regional/us/daily/2017-05-30,1,HTTP Error 404: Not Found
+1,Top200,us,2017-05-30,https://spotifycharts.com/regional/us/daily/2017-05-30,2,HTTP Error 404: Not Found
+2,Top200,us,2017-05-30,https://spotifycharts.com/regional/us/daily/2017-05-30,3,HTTP Error 404: Not Found
+3,Top200,us,2017-05-30,https://spotifycharts.com/regional/us/daily/2017-05-30,-1,SKIPPED
+4,Top200,us,2017-05-31,https://spotifycharts.com/regional/us/daily/2017-05-31,1,HTTP Error 404: Not Found
+5,Top200,us,2017-05-31,https://spotifycharts.com/regional/us/daily/2017-05-31,2,HTTP Error 404: Not Found
+6,Top200,us,2017-05-31,https://spotifycharts.com/regional/us/daily/2017-05-31,3,HTTP Error 404: Not Found
+7,Top200,us,2017-05-31,https://spotifycharts.com/regional/us/daily/2017-05-31,-1,SKIPPED
+8,Top200,us,2017-06-02,https://spotifycharts.com/regional/us/daily/2017-06-02,1,HTTP Error 404: Not Found
+9,Top200,us,2017-06-02,https://spotifycharts.com/regional/us/daily/2017-06-02,2,HTTP Error 404: Not Found
+10,Top200,us,2017-06-02,https://spotifycharts.com/regional/us/daily/2017-06-02,3,HTTP Error 404: Not Found
+11,Top200,us,2017-06-02,https://spotifycharts.com/regional/us/daily/2017-06-02,-1,SKIPPED
+12,Viral50,us,2017-06-04,https://spotifycharts.com/viral/us/daily/2017-06-04,1,HTTP Error 404: Not Found
+13,Viral50,us,2017-06-04,https://spotifycharts.com/viral/us/daily/2017-06-04,2,HTTP Error 404: Not Found
+14,Viral50,us,2017-06-04,https://spotifycharts.com/viral/us/daily/2017-06-04,3,HTTP Error 404: Not Found
+15,Viral50,us,2017-06-04,https://spotifycharts.com/viral/us/daily/2017-06-04,-1,SKIPPED
+16,Viral50,us,2017-07-23,https://spotifycharts.com/viral/us/daily/2017-07-23,1,HTTP Error 404: Not Found
+17,Viral50,us,2017-07-23,https://spotifycharts.com/viral/us/daily/2017-07-23,2,HTTP Error 404: Not Found
+18,Viral50,us,2017-07-23,https://spotifycharts.com/viral/us/daily/2017-07-23,3,HTTP Error 404: Not Found
+19,Viral50,us,2017-07-23,https://spotifycharts.com/viral/us/daily/2017-07-23,-1,SKIPPED
+20,Viral50,us,2019-01-14,https://spotifycharts.com/viral/us/daily/2019-01-14,1,HTTP Error 404: Not Found
+21,Viral50,us,2019-01-14,https://spotifycharts.com/viral/us/daily/2019-01-14,2,HTTP Error 404: Not Found
+22,Viral50,us,2019-01-14,https://spotifycharts.com/viral/us/daily/2019-01-14,3,HTTP Error 404: Not Found
+23,Viral50,us,2019-01-14,https://spotifycharts.com/viral/us/daily/2019-01-14,-1,SKIPPED
+24,Viral50,us,2019-01-15,https://spotifycharts.com/viral/us/daily/2019-01-15,1,HTTP Error 404: Not Found
+25,Viral50,us,2019-01-15,https://spotifycharts.com/viral/us/daily/2019-01-15,2,HTTP Error 404: Not Found
+26,Viral50,us,2019-01-15,https://spotifycharts.com/viral/us/daily/2019-01-15,3,HTTP Error 404: Not Found
+27,Viral50,us,2019-01-15,https://spotifycharts.com/viral/us/daily/2019-01-15,-1,SKIPPED
+28,Viral50,us,2019-03-06,https://spotifycharts.com/viral/us/daily/2019-03-06,1,HTTP Error 500: Internal Server Error
+29,Viral50,us,2019-03-06,https://spotifycharts.com/viral/us/daily/2019-03-06,2,HTTP Error 500: Internal Server Error
+30,Viral50,us,2019-04-09,https://spotifycharts.com/viral/us/daily/2019-04-09,1,HTTP Error 404: Not Found
+31,Viral50,us,2019-04-09,https://spotifycharts.com/viral/us/daily/2019-04-09,2,HTTP Error 404: Not Found
+32,Viral50,us,2019-04-09,https://spotifycharts.com/viral/us/daily/2019-04-09,3,HTTP Error 404: Not Found
+33,Viral50,us,2019-04-09,https://spotifycharts.com/viral/us/daily/2019-04-09,-1,SKIPPED
+34,Viral50,us,2019-11-15,https://spotifycharts.com/viral/us/daily/2019-11-15,1,HTTP Error 404: Not Found
+35,Viral50,us,2019-11-15,https://spotifycharts.com/viral/us/daily/2019-11-15,2,HTTP Error 404: Not Found
+36,Viral50,us,2019-11-15,https://spotifycharts.com/viral/us/daily/2019-11-15,3,HTTP Error 404: Not Found
+37,Viral50,us,2019-11-15,https://spotifycharts.com/viral/us/daily/2019-11-15,-1,SKIPPED
+38,Viral50,us,2019-11-16,https://spotifycharts.com/viral/us/daily/2019-11-16,1,HTTP Error 404: Not Found
+39,Viral50,us,2019-11-16,https://spotifycharts.com/viral/us/daily/2019-11-16,2,HTTP Error 404: Not Found
+40,Viral50,us,2019-11-16,https://spotifycharts.com/viral/us/daily/2019-11-16,3,HTTP Error 404: Not Found
+41,Viral50,us,2019-11-16,https://spotifycharts.com/viral/us/daily/2019-11-16,-1,SKIPPED
